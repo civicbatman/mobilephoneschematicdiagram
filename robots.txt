@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://civicbatman.github.io/mobilephoneschematicdiagram/sitemap.xml
